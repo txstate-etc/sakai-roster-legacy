@@ -8,3 +8,5 @@ To include this code in your build, simply add this project to your sakai source
 `<module>roster_legacy</module`
 
 NOTE: You may need to update versions in various pom.xml files in this project to match your current Sakai version.
+
+This code comes from the Sakai project: https://github.com/sakaiproject/sakai
